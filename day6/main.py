@@ -17,5 +17,5 @@ def task_2(s):
             break
 
 
-task_1(s=s)
-task_2(s=s)
+# task_1(s=s)
+# task_2(s=s)
